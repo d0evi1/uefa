@@ -1,0 +1,17 @@
+team	group_id	team_en	fifa_rank	fifa_score	prematch_rank	prematch_win	prematch_draw	prematch_loss	prematch_goals	prematch_against	prematch_goals_dif	prematch_score	prematch_group	prematch_group_teams	is_host	uro_champion_num	world_champion_num	uro_cup_rank	uro_cup_num	league_rank	odds	grade
+丹麦	B		10	1069	1	6	1	1	15	6	9	19	H	2	0	0	0	0	0	17	50	2
+乌克兰	D		50	589	0	0	0	0	0	0	0	0		0	1	0	0	0	3	8	70	1
+俄罗斯	A		11	1049	1	7	2	1	17	4	13	23	B	2	0	1	0	11	2	7	8.5	3
+克罗地亚	C		8	1114	2	7	1	2	21	7	14	22	F	2	0	0	0	18	0	21	25	4
+希腊	A		14	961	1	7	3	0	14	5	9	24	F	2	0	0	0	0	0	13	30	2
+德国	B		2	1345	1	10	0	0	34	7	27	30	A	1	0	3	3	0	18	3	2.05	3
+意大利	C		12	1041	2	8	2	0	20	2	18	26	C	1	0	1	4	3	29	4	1.82	2
+捷克	A		26	798	2	4	1	3	15	8	7	13	I	2	0	0	0	0	0	14	25	4
+法国	D		16	938	1	6	3	1	15	4	11	21	D	1	0	2	1	10	2	6	11	3
+波兰	A		65	514	0	0	0	0	0	0	0	0		0	1	0	0	0	0	25	40	1
+爱尔兰	C		18	891	2	6	3	1	20	8	12	21	B	2	0	0	0	0	0	36	300	3
+瑞典	D		17	931	2	8	0	2	31	11	20	24	E	2	0	0	0	12	2	24	75	2
+英格兰	D		7	1132	1	5	3	0	17	5	12	18	G	1	0	0	1	2	31	2	9	4
+荷兰	B		4	1207	1	9	0	1	37	8	29	27	E	2	0	0	0	11	0	9	22	1
+葡萄牙	B		5	1190	2	5	1	2	27	14	13	16	H	2	0	0	0	6	0	5	5.6	4
+西班牙	C		1	1442	1	8	0	0	26	6	20	24	I	2	0	3	0	1	39	1	1.59	1

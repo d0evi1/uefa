@@ -1,0 +1,25 @@
+team	group_id	team_en	fifa_rank	fifa_score	prematch_rank	prematch_win	prematch_draw	prematch_loss	prematch_goals	prematch_against	prematch_goals_dif	prematch_score	prematch_group	prematch_group_teams	is_host	uro_champion_num	world_champion_num	uro_cup_rank	uro_cup_num	league_rank	odds	grade
+乌克兰	C	Ukraine	19	894	2	6	1	3	14	4	10	19	C	2	0	0	0	9	3	8	81	2
+俄罗斯	B	Russia	29	828	2	6	2	2	21	6	15	20	G	3	0	1	0	11	2	7	67	2
+克罗地亚	D	Croatia	27	842	2	6	3	1	20	5	15	20	H	2	0	0	0	18	1	21	29	2
+冰岛	F	Iceland	34	751	2	6	2	2	17	6	11	20	A	3	0	0	0	0	0	99999999	81	4
+匈牙利	F	Hungary	20	886	3	4	4	2	11	9	2	16	F	3	0	0	0	19	1	34	251	3
+北爱尔兰	C	Northern Ireland	25	851	1	6	3	1	16	8	8	21	F	3	0	0	0	0	0	99999999	201	4
+土耳其	D	Turkey	18	919	3	5	3	2	14	9	5	18	A	3	0	0	0	17	1	10	81	4
+奥地利	F	Austria	10	1077	1	9	1	0	22	5	17	28	G	3	0	0	0	0	0	18	51	2
+威尔士	B	Wales	26	846	2	6	3	1	11	4	7	21	B	2	0	0	0	0	0	99999999	67	4
+德国	C	Germany	4	1310	1	7	1	2	24	9	15	22	D	3	0	3	3	4	18	3	4	1
+意大利	E	Italy	12	982	1	7	3	0	16	7	9	24	H	2	0	1	4	3	29	4	17	2
+捷克	D	Czech Republic	30	815	1	7	1	2	19	14	5	22	A	3	0	0	0	0	0	14	67	3
+斯洛伐克	B	Slovakia	24	852	2	7	1	2	17	8	9	22	E	3	0	0	0	0	0	31	101	3
+比利时	E	Belgium	2	1384	1	7	2	1	24	5	19	23	B	2	0	0	0	7	4	11	10	1
+法国	A	France	17	925	0	0	0	0	0	0	0	0	0	0	1	2	1	10	2	6	4	1
+波兰	C	Poland	27	842	2	6	3	1	33	10	23	21	D	3	0	0	0	0	0	25	67	3
+爱尔兰	E	Republic of Ireland	33	768	3	5	3	2	19	7	12	18	D	3	0	0	0	0	0	36	101	4
+瑞典	E	Sweden	35	735	3	5	3	2	15	9	6	18	G	3	0	0	0	12	2	24	81	3
+瑞士	A	Switzerland	15	948	2	7	0	3	24	8	16	21	E	3	0	0	0	0	0	11	81	2
+罗马尼亚	A	Romania	22	878	2	5	5	0	11	2	9	20	F	3	0	0	0	0	0	16	201	3
+英格兰	B	England	11	1069	1	10	0	0	31	3	28	30	E	3	0	0	1	2	31	2	11	1
+葡萄牙	F	Portugal	8	1181	1	7	0	1	11	5	6	21	I	2	0	0	0	6	7	5	26	1
+西班牙	D	Spain	6	1267	1	9	0	1	23	3	20	27	C	2	0	3	0	1	39	1	6.5	1
+阿尔巴尼亚	A	Albania	42	667	2	4	4	2	10	5	5	14	I	2	0	0	0	0	0	32	301	4
